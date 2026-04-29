@@ -4,7 +4,7 @@ Make some changes to this file.
 
 Maybe fill this out?
 
-* The best kind of phone is _______
-* The best superhero is ___________
 * The best operating system is linux
 * The best text editor is probably any vim based
+* The best kind of phone is android phone not based on google
+* The best superhero is bakugo
